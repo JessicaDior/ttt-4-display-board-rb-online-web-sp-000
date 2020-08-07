@@ -1,4 +1,4 @@
-display_board = [" ", " ", " ", " "," ", " ", " ", " ", " "]
+display_board = [" ", " ", " ", " ", " " , " ", " ", " ", " "]
 
 def display_board (display_board)
   puts "#{display_board[0]}  |  #{display_board[1]}| #{display_board[2]} "
